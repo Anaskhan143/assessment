@@ -1,49 +1,14 @@
 {
-  "navigation": {
-    "home": "Home",
-    "products": "Products",
-    "about": "About Us",
-    "backToHome": "Back to Home",
-    "backToProducts": "Back to Products"
-  },
-  "home": {
-    "title": "Welcome to Our App",
-    "subtitle": "This is the home page with file-based routing!",
-    "viewProducts": "View Products",
-    "viewProductsDesc": "Browse our product catalog",
-    "aboutUs": "About Us",
-    "aboutUsDesc": "Learn more about our company"
-  },
-  "products": {
-    "title": "Products",
-    "product1": "Product 1",
-    "product1Desc": "This is product 1",
-    "product2": "Product 2", 
-    "product2Desc": "This is product 2",
-    "product3": "Product 3",
-    "product3Desc": "This is product 3",
-    "detailsFor": "Details for product",
-    "sampleDescription": "This is a sample product detail page."
-  },
-  "about": {
-    "title": "About Us",
-    "subtitle": "Learn more about our company and mission.",
-    "ourMission": "Our Mission",
-    "missionText": "We are dedicated to providing the best user experience with modern web technologies.",
-    "techDescription": "This application demonstrates file-based routing with React Router v7, TypeScript, and Tailwind CSS."
-  },
   "common": {
-    "notFound": "Page not found",
-    "goHome": "Go Home",
-    "logo": "Logo",
     "light": "Light",
     "dark": "Dark",
     "system": "System",
     "english": "English",
     "spanish": "Spanish"
   },
-  "test": {
-    "title": "Test Route",
-    "description": "This is a test route to check if routing is working."
+  "home": {
+    "title": "Theme & Language Toggle App",
+    "subtitle": "A simple web application demonstrating cookie-based session management with React Router v7 and shadcn/ui",
+    "description": "This application showcases modern React patterns including theme switching (light/dark/system), language switching (English/Spanish), and persistent cookie storage across browser sessions."
   }
 }

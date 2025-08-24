@@ -1,49 +1,14 @@
 {
-  "navigation": {
-    "home": "Inicio",
-    "products": "Productos",
-    "about": "Acerca de Nosotros",
-    "backToHome": "Volver al Inicio",
-    "backToProducts": "Volver a Productos"
-  },
-  "home": {
-    "title": "Bienvenido a Nuestra Aplicación",
-    "subtitle": "¡Esta es la página de inicio con enrutamiento basado en archivos!",
-    "viewProducts": "Ver Productos",
-    "viewProductsDesc": "Explora nuestro catálogo de productos",
-    "aboutUs": "Acerca de Nosotros",
-    "aboutUsDesc": "Conoce más sobre nuestra empresa"
-  },
-  "products": {
-    "title": "Productos",
-    "product1": "Producto 1",
-    "product1Desc": "Este es el producto 1",
-    "product2": "Producto 2",
-    "product2Desc": "Este es el producto 2", 
-    "product3": "Producto 3",
-    "product3Desc": "Este es el producto 3",
-    "detailsFor": "Detalles del producto",
-    "sampleDescription": "Esta es una página de muestra de detalles del producto."
-  },
-  "about": {
-    "title": "Acerca de Nosotros",
-    "subtitle": "Conoce más sobre nuestra empresa y misión.",
-    "ourMission": "Nuestra Misión",
-    "missionText": "Nos dedicamos a brindar la mejor experiencia de usuario con tecnologías web modernas.",
-    "techDescription": "Esta aplicación demuestra el enrutamiento basado en archivos con React Router v7, TypeScript y Tailwind CSS."
-  },
   "common": {
-    "notFound": "Página no encontrada",
-    "goHome": "Ir al Inicio",
-    "logo": "Logo",
     "light": "Claro",
     "dark": "Oscuro",
     "system": "Sistema",
     "english": "Inglés",
     "spanish": "Español"
   },
-  "test": {
-    "title": "Ruta de Prueba",
-    "description": "Esta es una ruta de prueba para verificar si el enrutamiento funciona."
+  "home": {
+    "title": "Aplicación de Cambio de Tema e Idioma",
+    "subtitle": "Una aplicación web simple que demuestra la gestión de sesiones basada en cookies con React Router v7 y shadcn/ui",
+    "description": "Esta aplicación muestra patrones modernos de React incluyendo cambio de tema (claro/oscuro/sistema), cambio de idioma (inglés/español), y almacenamiento persistente de cookies a través de sesiones del navegador."
   }
 }

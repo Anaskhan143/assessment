@@ -7,7 +7,7 @@
     "spanish": "Español"
   },
   "home": {
-    "title": "Aplicación de Cambio de Tema e Idioma",
+    "title": "Aplicación de Alternancia de Tema e Idioma",
     "subtitle": "Una aplicación web simple que demuestra la gestión de sesiones basada en cookies con React Router v7 y shadcn/ui",
     "description": "Esta aplicación muestra patrones modernos de React incluyendo cambio de tema (claro/oscuro/sistema), cambio de idioma (inglés/español), y almacenamiento persistente de cookies a través de sesiones del navegador."
   }

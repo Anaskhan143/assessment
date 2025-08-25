@@ -1,5 +1,5 @@
-import { Outlet } from 'react-router';
 import { useEffect } from 'react';
+import { Outlet } from 'react-router';
 import Header from '@/components/Header';
 import { useTranslation } from 'react-i18next';
 
@@ -27,7 +27,6 @@ export default function Root() {
       <Header />
       <main style={{ padding: '1.5rem' }}>
         <div style={{ maxWidth: '64rem', margin: '0 auto' }}>
-          <h1 style={{ fontSize: '2.25rem', fontWeight: 'bold', marginBottom: '1rem' }}>{t('home.title')}</h1>
           <p style={{ fontSize: '1.25rem', marginBottom: '1.5rem', color: 'var(--muted-foreground)' }}>{t('home.subtitle')}</p>
           <p style={{ fontSize: '1.125rem', lineHeight: '1.75' }}>{t('home.description')}</p>
         </div>
